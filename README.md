@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Check my projects on my pinned repositories
+### Check my projects on my pinned 
 <!--
 **AlbertoSacilotto/albertosacilotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
